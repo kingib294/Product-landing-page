@@ -45,7 +45,7 @@
             body {
                 background-color: rgb(8, 3, 10);
                 color: antiquewhite;
-                background-image: url(./backgroundsTiktok\ backgrounds\ -\ Made\ with\ PosterMyWall.png);
+                background-image: url(.\backgroundsTiktok\ backgrounds\ -\ Made\ with\ PosterMyWall.png);
                 background-repeat: no-repeat;
                 background-size: 135%;
             }
@@ -91,7 +91,7 @@
             }
             
             #set{   
-                background-image: url(./backgroundsTiktok\ backgrounds\ -\ Made\ with\ PosterMyWall.png);
+                background-image: url(.\backgroundsTiktok\ backgrounds\ -\ Made\ with\ PosterMyWall.png);
                 background-color: black;
                 background-size: auto;
                 border-radius: 12px;
@@ -126,7 +126,7 @@
 
         <div id="logo">
             <center>
-                <img src="./credit repair logo bookkeeping logo account - Made with PosterMyWall (1).png" alt="" style="width: 100px;">
+                <img src=".\credit repair logo bookkeeping logo account - Made with PosterMyWall (1).png" alt="" style="width: 100px;">
             </center>
             
             <h1 style="font-family: fantasy; color: rgb(19, 1, 53); text-align: center;"> GRAND TECH </h1>
@@ -150,19 +150,19 @@
             <div>
                 <center>
                     <h1 style="color:red;">Iphone</h1>
-                <img src="./oip.jpg" alt="ipone" class="pic">
+                <img src=".\oip.jpg" alt="ipone" class="pic">
                 
                 <center><button id="buyNow">Add to cart</button></center>
                 <br>
                 
-                <img src="./OIP (1).jpg" class="pic">
+                <img src=".\OIP (1).jpg" class="pic">
                 <center><button id="buyNow">Add to cart</button></center>
                     <br>
-                        <img src="./OIP (2).jpg" class="pic">
+                        <img src=".\OIP (2).jpg" class="pic">
                         <center><button id="buyNow"> Add to cart</button></center>
                         <br>
 
-                        <img src="./OIP (3).jpg" class="pic">
+                        <img src=".\OIP (3).jpg" class="pic">
                         <center><button id="buyNow">Add to cart</button></center>
 
 
